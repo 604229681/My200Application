@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/WeixinMenu" />
+            <option value="$PROJECT_DIR$/slidingdrawer" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
