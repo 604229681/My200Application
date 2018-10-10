@@ -1,1 +1,1 @@
-include ':WeixinMenu', ':slidingdrawer'
+include ':WeixinMenu', ':slidingdrawer', ':qqmenu'
